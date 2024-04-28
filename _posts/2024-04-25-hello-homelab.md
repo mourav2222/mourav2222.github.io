@@ -46,5 +46,5 @@ variables:
 sudo apt update && apt-get upgrade
 ```
 
-## Photes
+## Photos
 ![img-decsription](https://qameta.io/assets/testopslogo.791e9566.svg)
